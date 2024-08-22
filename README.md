@@ -8,6 +8,17 @@ Introduction to GitHub:
 
 What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.
 Repositories on GitHub:
+GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time.
+
+the primary functions of github are:
+
+
+
+enhanced collaboration
+easy file management
+
+
+
 
 What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.
 Version Control with Git:
